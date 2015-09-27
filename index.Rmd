@@ -14,10 +14,11 @@ knit        : slidify::knit2slides
 ## Background
 
 This is a simple presentation for Developing Data Products Project.
-This presentation is another form of README file which is available
-by the following url:
 
-[http://DSCourse001.github.io/cars](http://DSCourse001.github.io/cars)
+This presentation is another form of README file for project which is available by the following url: [http://DSCourse001.github.io/cars](http://DSCourse001.github.io/cars)
+
+Application URL:
+[https://dscourse001.shinyapps.io/cars](https://dscourse001.shinyapps.io/cars)
 
 So, lets get started.
 
